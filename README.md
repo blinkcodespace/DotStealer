@@ -20,7 +20,7 @@ A multifunctional Windows stealer which sends logs via telegram bot (no dedicate
 ## Screenshots
 ### Builder:
 ![image](https://github.com/user-attachments/assets/8012c3e5-999f-4e5b-8d4f-96900e7ee159)
-![image](https://github.com/user-attachments/assets/f89d7a01-893d-4ad1-8a69-43a401d20063)
+![image](https://github.com/user-attachments/assets/b4eedf2a-eb00-40db-aa26-2ea4ea7de7fd)
 
 ### Log:
 ![image](https://github.com/user-attachments/assets/c225ae81-07b1-4e07-a42e-f9467bf58268)
