@@ -1,13 +1,14 @@
 # DotStealer
 A multifunctional Windows stealer which sends logs via telegram bot (no dedicated server needed). ✨The price for a lifetime license is 30$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features 
-<br>🔹NEW: two types of powerfull data encryption
+<br>🔹NEW: App-Bound cookie protection bypass (no admin privileges needed)
 <br>🔸Easy-to-use compact builder
 <br>🔸Client works on Windows 7 and higher (32 and 64 bit)
 <br>🔸Anti doble-launch
 <br>🔸Anti VM launch
 <br>🔸Anti-debug
 <br>🔸Single .net exe without dependences
+<br>🔸Two type of data encryption
 <br>🔸Grabs Desktop files
 <br>🔸Run from the start directory/install
 <br>🔸Browser data stealing (Cookies, credit cards, downloads, passwords) - separated cookie grabbing
@@ -19,12 +20,12 @@ A multifunctional Windows stealer which sends logs via telegram bot (no dedicate
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
 ### Builder:
-![image](https://github.com/user-attachments/assets/8012c3e5-999f-4e5b-8d4f-96900e7ee159)
-![image](https://github.com/user-attachments/assets/b4eedf2a-eb00-40db-aa26-2ea4ea7de7fd)
+![image](https://github.com/user-attachments/assets/ff78fbfb-5621-4a30-add4-3152ccb156e6)
+![image](https://github.com/user-attachments/assets/cbebe6c0-23f9-4aaf-ae56-427dd273a1e2)
 
 ### Log:
-![image](https://github.com/user-attachments/assets/c225ae81-07b1-4e07-a42e-f9467bf58268)
-![image](https://github.com/user-attachments/assets/b5a1a986-0e6b-4488-ada7-736298f0393c)
+![image](https://github.com/user-attachments/assets/dc6c28b2-feeb-49f1-a644-178f90094d73)
+![image](https://github.com/user-attachments/assets/6530719f-f64b-42f4-a484-8577b0eed717)
 
 
 ## ♦️I AM NOT RESPONSIBLE FOR ANY ILEGAL USAGE OF THIS TOOL♦️
