@@ -20,7 +20,7 @@ A multifunctional Windows stealer which sends logs via telegram bot (no dedicate
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
 ### Builder:
-![image](https://github.com/user-attachments/assets/ff78fbfb-5621-4a30-add4-3152ccb156e6)
+![image](https://github.com/user-attachments/assets/7b8ebd53-cdba-4940-80eb-fc1d9fb1a903)
 ![image](https://github.com/user-attachments/assets/cbebe6c0-23f9-4aaf-ae56-427dd273a1e2)
 
 ### Log:
